@@ -1,0 +1,118 @@
+{
+  "products": [
+    {
+      "name": "Пепперони",
+      "description": "",
+      "image": "https://static.tildacdn.com/tild3966-6162-4931-a534-316638383932/__680_result.jpg",
+      "price": 700,
+      "type": "Пицца",
+      "id": 1
+    },
+    {
+      "name": "Игири",
+      "description": "",
+      "image": "https://роллтайм.рф/wp-content/uploads/2018/03/65d4d8f0-5469-41ce-a554-c5d4d54f36db.png",
+      "price": 99,
+      "type": "Суши",
+      "id": 3
+    },
+    {
+      "name": "Ассорти",
+      "image": "https://images.dealcity.ru/e73f3eb5-56af-4447-9571-310743b03e48.jpg",
+      "price": 750,
+      "type": "Пицца",
+      "id": 4
+    },
+    {
+      "name": "Чили",
+      "image": "https://www.edaedet.ru/upload/iblock/576/576e5d3dd6ea928095f6e94e87d88480.JPG",
+      "price": 550,
+      "type": "Пицца",
+      "id": 5
+    },
+    {
+      "name": "Jack Daniels",
+      "image": "https://images.av.ru/av.ru/product/hab/h26/9191529611294.jpg",
+      "price": 1500,
+      "type": "Алкоголь",
+      "id": 6
+    },
+    {
+      "name": "Фанта",
+      "image": "https://img.postershop.me/4848/Products/2235375_1627576225.8878_original.jpg",
+      "price": 70,
+      "type": "Напитки",
+      "id": 8
+    },
+    {
+      "name": "Маргарита",
+      "image": "https://avatars.mds.yandex.net/i?id=3dacb783f3ac709e6fb3d6c1d1de869f-3788438-images-thumbs&n=13",
+      "price": 500,
+      "type": "Пицца",
+      "id": 9
+    },
+    {
+      "name": "Вегетарианская ",
+      "image": "https://avatars.mds.yandex.net/i?id=2971753b4eb40c01fbecc73f8cbdab56-4987635-images-thumbs&n=13",
+      "price": 550,
+      "type": "Пицца",
+      "id": 10
+    },
+    {
+      "name": "Детская",
+      "image": "https://static.tildacdn.com/tild3430-6332-4235-a531-303365363335/_.jpg",
+      "price": 330,
+      "type": "Пицца",
+      "id": 11
+    },
+    {
+      "name": "Sierra",
+      "image": "https://forumsamogon.ru/wp-content/uploads/3/0/0/3001b0b540f535a6cc27c27f91d97e8c.jpg",
+      "price": 1000,
+      "type": "Алкоголь",
+      "id": 12
+    },
+    {
+      "name": "Красное вино",
+      "image": "https://sc01.alicdn.com/kf/HTB1DMCyDf5TBuNjSspcq6znGFXaM/Red-Grape-Wine-Essence-Wine-Flavor-For.jpg",
+      "price": 1500,
+      "type": "Алкоголь",
+      "id": 13
+    },
+    {
+      "name": "Балтика 3",
+      "image": "https://corporate.baltika.ru/media/28221/baltika-3.jpg",
+      "price": 100,
+      "type": "Алкоголь",
+      "id": 14
+    },
+    {
+      "name": "Coca-Cola",
+      "image": "https://donsamurai.ru/d/kola_1_l.jpg",
+      "price": 100,
+      "type": "Напитки",
+      "id": 15
+    },
+    {
+      "name": "Sprite",
+      "image": "https://kingstontakeaway.com.au/wp-content/uploads/2020/04/Sprite-1.25l-768x768.jpg",
+      "price": 100,
+      "type": "Напитки",
+      "id": 16
+    },
+    {
+      "name": "Хиноки",
+      "image": "https://shali.tiktak-delivery.ru/img/dish/tSRSxPx7CPp6jhaF.jpg?mark=%2Fhome%2Ftiktak%2Fhtdocs%2Fpublic%2Fassets%2Findex%2Fimages%2Fwater-mark-2.png&s=8484df7cce627ebdfb8520064e725164",
+      "price": 250,
+      "type": "Роллы",
+      "id": 17
+    },
+    {
+      "name": "Акито",
+      "image": "https://vsem-edu-oblako.ru/upload/store/merchant502/medium/1597721293-52%20акито(1).jpg",
+      "price": 120,
+      "type": "Роллы",
+      "id": 18
+    }
+  ]
+}

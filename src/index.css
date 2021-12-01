@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,200;0,300;0,600;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@300&family=Teko:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Montagu Slab', serif !important;
+}
+
+#root{
+ background-color: white;
+
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+*{
+  margin: 0 ;
+  padding: 0;
+ 
+}
+
+a{
+ text-decoration: none;
+}
+
+/* navbar */
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root {
+  
+  /* background-color: rgb(20, 18, 18) !important; */
+  background-color: black !important;
+  /* color: black !important; */
+  text-decoration: none !important;
+
+  /* background-image: url("https://oeo.com/wp-content/uploads/2018/03/football-field-1136x568.jpg") ; */
+}
+
+.logo{
+  font-family: 'Teko', sans-serif !important;
+  font-size: 40px !important;
+}
+
+/* carousel */
+
+.carousel img{
+  margin: 0;
+  padding: 0;
+  width: auto;
+  max-height: 560px;
+  object-fit: cover;
+  /* height: 600px; */
+  }
+
+/* MAIn PAGE */
+
+.main-page{
+  /* display: flex;
+  justify-content: space-between; */
+  display: grid;
+  grid-template-columns: 200px 1fr;
+ /* background-image: url(https://pbs.twimg.com/media/ESqdSEMX0AEKBsb.jpg); */
+ /* background-color: white; */
+  color:black;
+  /* margin-top: 30px; */
+  /* border-radius: 1%; */
+}
+
+/* .sidebar{
+  background-color: black;
+} */
+
+.css-j204z7-MuiFormControlLabel-root .MuiFormControlLabel-label {
+  font-family: 'Montagu Slab', serif !important;
+  font-size: 22px;
+}
+
+/* detail-page */
+
+.detail-page{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+.details{
+  font-size: 30px;
+}
+
+/* order page */
+
+.block1 {
+    margin-top: 5%;
+    font-family: 'IBM Plex Sans', sans-serif;
+    letter-spacing: 1px;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 0 30px;
+    background: white;
+    margin-bottom: 5%;
+}
+
+.titleHead {
+    background: white;
+    padding: 0 40px;
+}
+
+.titleHead a{
+    text-decoration: none;
+    color: dimgrey;
+}
+.appbar{
+  background-color: orange !important;
+}
+.titleHead a:hover {
+    transition: 0.5s;
+    color: rgba(241, 190, 22, 0.918);
+}
+
+/* card */
+.card {
+  /* display: flex; */
+
+  font-family: 'Montagu Slab', serif;
+  
+} 
+.body{
+  background-image: url(https://i6.photo.2gis.com/images/branch/25/3518437223859057_d608.jpg) !important;
+  background-attachment: fixed;
+  width: 100%;
+}
+.islam:hover {
+  /* width: 255px;  
+    height: 358.19px; */
+  -webkit-transition: all 0.5s !important;
+   transition: all 0.5s !important;
+   background-color: orange;
+  /* transition: .3s ease-out;   */
+} 
+
+
+
+.css-h93ljk-MuiTypography-root{
+  font-family: 'M PLUS 1', sans-serif !important;
+}
+
+.erlan{
+  display: flex;
+  justify-content: center;
+}
+
+/* pagination */
+
+.pagination{
+  display: flex;
+  justify-content: center;
+}
+
+.pagination ul{
+  display: flex;
+  list-style-type: none
+}
+
+/* footer */
+.footer{
+  display: flex;
+  justify-content: space-around;
+  background-color: orange;
+  margin-top: -1px;
+  justify-content: space-around;
+  align-items:flex-start;
+  color: black;
+  min-height: 250px;
+  padding-top: 30px;
+}
+
+/* add page */
+
+.add-page{
+  margin-top: 10%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* justify-content: center;   */
+  /* flex-wrap: wrap; */
+  align-items: center;
+  margin-bottom: 10%;
+}
+
+.add-page form{
+  display: flex;
+  /* flex-direction: column; */
+  /* max-width: 50%; */
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  justify-content: center;  
+  /* flex-wrap: wrap; */
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+}
+
+.aidar{
+  width: 40%;
+}
+
+/* .forma {
+  justify-content: center;
+  width: 300px;
+
+} */
+
+
+/* edit page */
+
+.edit-page{
+  margin-top: 10%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* justify-content: center;   */
+  /* flex-wrap: wrap; */
+  align-items: center;
+  margin-bottom: 10%;
+}
+
+.edit-page form{
+  display: flex;
+  /* flex-direction: column; */
+  /* max-width: 50%; */
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  justify-content: center;  
+  /* flex-wrap: wrap; */
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+}
+
+/* cart-page */
+
+.cart-page{
+margin-top: 10%;
+margin-bottom: 10%;
+}
+
+/* адаптивка */
+
+@media all and (max-width: 779px){
+  .celebrity{
+    display: none;
+  }
+}
+
+@media all and (max-width: 471px){
+  .main-page{
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media all and (max-width: 447px){
+  .ubrat{
+    display: none;
+    
+  }
+}
+
+@media all and (max-width: 330px){
+  .main-page{
+    background-image: none;
+  }
+  .carousel{
+    display: none;
+  }
+}
+
